@@ -983,6 +983,9 @@
 .ti-github:before {
 	content: "\e73f";
 }
+.ti-dribble:before {
+	content: "\f2";
+}
 .ti-flickr:before {
 	content: "\e740";
 }
